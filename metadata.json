@@ -1,0 +1,5 @@
+{
+  "name": "ShopLux",
+  "description": "A premium e-commerce web application with a sophisticated design. Built with React, TypeScript, and Tailwind CSS, it features a curated product catalog, a seamless shopping cart, and a modern user interface.",
+  "requestFramePermissions": []
+}
