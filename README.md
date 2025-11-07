@@ -3,4 +3,4 @@
 3. Run the app:
    `npm run dev`
 "# E-commerce" 
-DEMO:https://e-commerce-naxp.onrender.com
+DEMO : https://shoplux.onrender.com
